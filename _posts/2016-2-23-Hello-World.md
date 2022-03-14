@@ -3,11 +3,9 @@ layout: post
 title: Hello World
 ---
 
-# Title
-Hello World
+# Hello World!
 
-## Subtitle
-Documentation!
+## Testing Testing
 
 First post on my Github Jekyll page on the first day of the BioHack Academy
 
